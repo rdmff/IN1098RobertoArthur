@@ -1,4 +1,4 @@
 # IN1098RobertoArthur
-#### Projeto para o professor da disciplina, Geber Ramalho.
+#### Projeto para o professor da disciplina IN1098, Prof. Dr. Geber Ramalho.
 #### Membros: Roberto De Medeiros e Arthur Fernandes.
 
