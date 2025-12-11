@@ -1,4 +1,4 @@
-#bloco de código do Residencial Network para ser adicionado ao Jupyter de Differential Privacy
+#bloco de código do Residual Network para ser adicionado ao Jupyter de Differential Privacy
 
 # ResNet Block
 class ResidualBlock(nn.Module):
