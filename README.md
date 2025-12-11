@@ -4,3 +4,4 @@
 
 Para Differential Privacy:
 - TutorialDP.pdf
+- DifferentialPrivacy_v14.3.beta.ipynb
