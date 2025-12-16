@@ -5,11 +5,12 @@
 - Arthur Fernandes.
 
 #### Para Differential Privacy:
-- TutorialDP.pdf
+- Tutorial e Exercício: TutorialDP.pdf
 - DifferentialPrivacy_v14.3.beta.ipynb
 - resnet.py
 - Vídeo DP: https://drive.google.com/file/d/1f_bdE8CyfR193lrnq5EVAaUNTDxQ7ma_/view?usp=sharing
 
 #### Para Federated Learning:
 - federated_learning.ipynb
-- 
+- Exercício: federated_learning_atividade.ipynb
+- Vídeo FL: 
