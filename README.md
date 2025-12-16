@@ -1,5 +1,6 @@
 # Projeto de Ética e Privacidade em Inteligência Artificial
 #### Projeto para o professor da disciplina IN1098, Prof. Dr. Geber Ramalho.
+- Objetivo: "Segurança: Escolher problema, dados e ferramentas, desenhar experimentos, escrever guia (vídeo, página web, documento) com passo a passo."
 #### Membros:
 - **Roberto De Medeiros**
 - **Arthur Fernandes**
