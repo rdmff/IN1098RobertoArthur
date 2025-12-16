@@ -12,7 +12,7 @@
 - - Versão 14.4 é mais explicada e melhor, se assemelhando à DifferentialPrivacy_v14.3
 - Tutorial e Exercício: TutorialDP.pdf
 - Parte da Q2: resnet.py
-- Vídeo DP: https://drive.google.com/file/d/1f_bdE8CyfR193lrnq5EVAaUNTDxQ7ma_/
+- Vídeo DP: https://youtu.be/t6VrZxmZ-Kc
 
 #### Para Federated Learning:
 - Código: **federated_learning.ipynb**
