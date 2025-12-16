@@ -6,11 +6,11 @@
 
 #### Para Differential Privacy:
 - Tutorial e Exercício: TutorialDP.pdf
-- DifferentialPrivacy_v14.3.beta.ipynb
+- Código: DifferentialPrivacy_v14.3.beta.ipynb
 - Parte da Q2: resnet.py
 - Vídeo DP: https://drive.google.com/file/d/1f_bdE8CyfR193lrnq5EVAaUNTDxQ7ma_/view?usp=sharing
 
 #### Para Federated Learning:
-- federated_learning.ipynb
+- Código: federated_learning.ipynb
 - Exercício: federated_learning_atividade.ipynb
 - Vídeo FL: https://drive.google.com/file/d/1eWy_pzRmufcCAdESJsww6VgZV9pBFvjU/view?usp=sharing
