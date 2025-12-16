@@ -7,14 +7,14 @@
 
 #### Doc Projeto: ProfGeber_ArthurRoberto_DP_FL.odt
 
+#### Para Federated Learning:
+- Código: **federated_learning.ipynb**
+- Exercício: federated_learning_atividade.ipynb
+- Vídeo/tutorial FL: https://youtu.be/lc0Hl4pS2E4
+
 #### Para Differential Privacy:
 - Código: **DifferentialPrivacy_v14.4.beta.ipynb**
 - - Versão 14.4 é mais explicada e melhor, se assemelhando à DifferentialPrivacy_v14.3
 - Tutorial e Exercício: TutorialDP.pdf
 - Parte da Q2: resnet.py
 - Vídeo DP: https://youtu.be/t6VrZxmZ-Kc
-
-#### Para Federated Learning:
-- Código: **federated_learning.ipynb**
-- Exercício: federated_learning_atividade.ipynb
-- Vídeo/tutorial FL: https://youtu.be/lc0Hl4pS2E4
