@@ -4,10 +4,11 @@
 - Roberto De Medeiros
 - Arthur Fernandes.
 
-Para Differential Privacy:
+#### Para Differential Privacy:
 - TutorialDP.pdf
 - DifferentialPrivacy_v14.3.beta.ipynb
 - resnet.py
 - Vídeo DP: https://drive.google.com/file/d/1f_bdE8CyfR193lrnq5EVAaUNTDxQ7ma_/view?usp=sharing
-Para Federated Learning:
+
+#### Para Federated Learning:
 - 
