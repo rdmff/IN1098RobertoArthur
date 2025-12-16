@@ -10,7 +10,7 @@
 - Código: **DifferentialPrivacy_v14.3.beta.ipynb**
 - Tutorial e Exercício: TutorialDP.pdf
 - Parte da Q2: resnet.py
-- Vídeo DP: https://drive.google.com/file/d/1f_bdE8CyfR193lrnq5EVAaUNTDxQ7ma_
+- Vídeo DP: https://drive.google.com/file/d/1f_bdE8CyfR193lrnq5EVAaUNTDxQ7ma__ 
 
 #### Para Federated Learning:
 - Código: **federated_learning.ipynb**
