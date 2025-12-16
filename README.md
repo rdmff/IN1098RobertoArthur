@@ -17,4 +17,4 @@
 #### Para Federated Learning:
 - Código: **federated_learning.ipynb**
 - Exercício: federated_learning_atividade.ipynb
-- Vídeo FL: https://youtu.be/lc0Hl4pS2E4
+- Vídeo/tutorial FL: https://youtu.be/lc0Hl4pS2E4
