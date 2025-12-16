@@ -1,4 +1,4 @@
-# IN1098RobertoArthur
+# Projeto de Ética e Privacidade em Inteligência Artificial
 #### Projeto para o professor da disciplina IN1098, Prof. Dr. Geber Ramalho.
 #### Membros:
 - Roberto De Medeiros
