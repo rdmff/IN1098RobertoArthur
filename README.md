@@ -13,4 +13,4 @@
 #### Para Federated Learning:
 - federated_learning.ipynb
 - Exercício: federated_learning_atividade.ipynb
-- Vídeo FL: 
+- Vídeo FL: https://drive.google.com/file/d/1eWy_pzRmufcCAdESJsww6VgZV9pBFvjU/view?usp=sharing
