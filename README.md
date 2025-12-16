@@ -4,6 +4,8 @@
 - **Roberto De Medeiros**
 - **Arthur Fernandes**
 
+#### Doc Projeto: ProfGeber_ArthurRoberto_DP_FL.odt
+
 #### Para Differential Privacy:
 - Código: **DifferentialPrivacy_v14.3.beta.ipynb**
 - Tutorial e Exercício: TutorialDP.pdf
